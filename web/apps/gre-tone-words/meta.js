@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-tone-words", "title": "Tone and Attitude Words", "exam": "GRE", "area": "GRE Verbal", "desc": "Learn the words that describe an author's attitude, then name the tone of short passages.", "content": ["tone.json"], "n": 12};
